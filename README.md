@@ -1,4 +1,4 @@
-# flight-delay-ml_predictor
+# Flight Delay Predictor with Machine Learning
 
 This is a program which uses machine learning on a binary classifier to determine the probability that a specific flight will be delayed. The model accounts for the features: Origin Airport; Destination Airport; Expected Time of Departure; Expected Time of Arrival. 
 
